@@ -1,2 +1,2 @@
-# referral-api
+# REDIRECT QR-CODE
 
