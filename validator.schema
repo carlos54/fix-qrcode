@@ -1,0 +1,14 @@
+{
+    "type": "array",
+    "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+             "key": {"type" : "string", "format":"^[A-Za-z0-9__][A-Za-z0-9_]*$"},
+        	 "value": {"type" : "string", "format": "uri"}
+        },
+        "required":["key", "value"]
+    },
+    "minItems": 1,
+    "uniqueItems": true
+}

@@ -1,10 +1,10 @@
 {
     "production": {
         "app_function": "app.app",
-        "aws_region": "ap-southeast-1",
-        "profile_name": "default",
-        "project_name": "referral-api",
-        "runtime": "python3.7",
-        "s3_bucket": "zappa-referral-api-eu2hzy8sf"
+        "profile_name": "basic-user",
+        "project_name": "fix-qrcode",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-qrcodelife",
+        "aws_region": "eu-west-3"
     }
 }

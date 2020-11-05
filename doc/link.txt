@@ -1,0 +1,2 @@
+https://towardsdatascience.com/deploy-a-python-api-on-aws-c8227b3799f0
+https://pythonforundergradengineers.com/deploy-serverless-web-app-aws-lambda-zappa.html
